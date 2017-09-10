@@ -1,0 +1,23 @@
+{
+  "admin_ids": [
+    "201668330522673152"
+  ],
+  "dbl-token": "",
+  "log_channel_id": "",
+  "prefix": "%",
+  "servers": [
+    {
+      "enabled_modules": [
+        "Fun",
+        "Misc",
+        "Nsfw",
+        "Welcome"
+      ],
+      "id": "330842560941785098",
+      "mod_ids": [],
+      "prefix": "%",
+      "welcome_channel": "356066527306448896"
+    }
+  ],
+  "token": "MzU2MTU0NTAyNjQ0MjM2Mjk4.DJY8iw.G_h6MtCxAahpI6sVvrz8ZXuj9V8"
+}
